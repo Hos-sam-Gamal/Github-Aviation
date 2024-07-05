@@ -1,2 +1,2 @@
 This line was made by the owner
-This line was made by the owner & Deleted by the Collaborator
+This line was made by the Collaborator
